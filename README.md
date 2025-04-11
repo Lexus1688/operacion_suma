@@ -1,4 +1,3 @@
-
 # Aplicación operación suma
 ## Descripción
 El script implementa la suma de dos números y realiza la validación los operandos
